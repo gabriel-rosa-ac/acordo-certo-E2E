@@ -1,0 +1,19 @@
+{
+  "name": "acordo-certo",
+  "version": "1.0.0",
+  "description": "Projeto E2E Acordo Certo",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "nodejs",
+    "acordo-certo"
+  ],
+  "author": "Gabriel Eduardo Rosa",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
